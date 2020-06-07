@@ -1,4 +1,5 @@
-³sµU¤l³£À´ªºGit©R¥O
-add ­×§ï¥[¤J®ÑÅÒ
+é€£çŒ´å­éƒ½æ‡‚çš„Gitå‘½ä»¤
+add ä¿®æ”¹åŠ å…¥æ›¸ç±¤
 add this from local
 add this line from remote github
+modify again from remote
