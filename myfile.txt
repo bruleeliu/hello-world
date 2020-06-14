@@ -1,0 +1,5 @@
+連猴子都懂的Git命令
+add 修改加入索引
+commit 記錄索引的狀態
+issue2 add list
+issue3 add list
